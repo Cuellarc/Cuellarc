@@ -4,8 +4,11 @@
 Estudiante de Ingeniería de Sistemas | Desarrollador de Software
 </h3>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cuellarc&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  <a href="https://www.linkedin.com/in/juan-esteban-cuellar-castillo"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Esteban%20Cuéllar%20Castillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:juanestebancuellar02@gmail.com"><img src="https://img.shields.io/badge/Correo-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
+  <a href="https://www.instagram.com/Cuellxr_/"><img src="https://img.shields.io/badge/Instagram-@Cuellxr_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
@@ -175,20 +178,6 @@ Sistema para la gestión de eventos universitarios utilizando persistencia híbr
     src="https://github-readme-streak-stats.herokuapp.com/?user=Cuellarc&theme=tokyonight&hide_border=true"
     alt="Racha de contribuciones"
   />
-</p>
-
----
-
-## Contacto
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/juan-esteban-cuellar-castillo">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:juanestebancuellar02@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
