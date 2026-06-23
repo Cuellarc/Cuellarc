@@ -34,7 +34,7 @@ Tengo experiencia académica desarrollando aplicaciones web, APIs REST, sistemas
 ### Lenguajes de programación
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,typescript,scala,latex,cpp,gherkin,md" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,typescript,scala,latex,gherkin,md" />
 </p>
 
 ### Backend
