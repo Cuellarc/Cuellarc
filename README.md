@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=30&weight=700&duration=3000&pause=1000&color=0085D6&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Juan+Esteban+Cu%C3%A9llar+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Edad%3A+21+a%C3%B1os;Creando+soluciones,+un+commit+a+la+vez"
+      src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=30&weight=700&duration=3000&pause=1000&color=0085D6&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Juan+Esteban+Cu%C3%A9llar+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Tengo+21+a%C3%B1os;Creando+soluciones,+un+commit+a+la+vez"
       alt="Texto animado"
     />
   </a>
