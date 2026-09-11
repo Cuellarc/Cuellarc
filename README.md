@@ -82,7 +82,7 @@ Tengo experiencia académica desarrollando aplicaciones web, APIs REST, sistemas
 ### Herramientas de desarrollo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,r,powershell,ai,kotlin,npm,redux,selenium,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,r,powershell,kotlin,npm,redux,selenium,stackoverflow" />
 </p>
 
 - Git
