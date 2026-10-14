@@ -164,31 +164,6 @@ Sistema para la gestión de eventos universitarios utilizando persistencia híbr
 
 ---
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Cuellarc&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estadísticas de GitHub"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuellarc&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Lenguajes más utilizados"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Cuellarc&theme=tokyonight&hide_border=true"
-    alt="Racha de contribuciones"
-  />
-</p>
-
----
-
 <p align="center">
   Gracias por visitar mi perfil. Estoy abierto a colaborar, aprender y participar en nuevos proyectos.
 </p>
