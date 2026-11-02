@@ -12,7 +12,7 @@
   <a href="mailto:juanestebancuellar02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
 </p>
 
-Estudiante de **Ingeniería de Sistemas** en la Universidad Icesi (Cali, Colombia), enfocado en desarrollo backend, arquitectura de software y sistemas distribuidos. He construido aplicaciones web, APIs REST y soluciones con bases de datos SQL y NoSQL.
+Estudiante de **Ingeniería de Sistemas** en la Universidad Icesi (Cali, Colombia), enfocado en el desarrollo backend, la arquitectura de software y los sistemas distribuidos. He construido aplicaciones web, APIs REST y soluciones con bases de datos SQL y NoSQL, y he incursionado en la inteligencia artificial mediante proyectos de visión por computadora y machine learning, abarcando el procesamiento de datos, la ingeniería de características y el entrenamiento y evaluación de modelos. Me interesa diseñar software bien estructurado, seguro y mantenible, respaldado por buenas prácticas y pruebas automatizadas.
 
 ## Stack
 
