@@ -31,5 +31,5 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad Icesi (Cali, Colombi
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **SITM-MIO** | Sistema distribuido que procesa información de buses, sensores y eventos | `Java` `ZeroC ICE` `JPA` `PostgreSQL` |
-| **UniPlan** | Gestión de eventos universitarios con persistencia híbrida | `Python` `Django` `PostgreSQL` `MongoDB` |
+| **[PhotoMarket](https://github.com/Computacion-2/proyecto-final-webones)** | Backend de un marketplace de fotografía artística: API REST, roles y permisos, ventas y generación de PDF | `Java` `Spring Boot` `Spring Security + JWT` `PostgreSQL` `JUnit` |
+| **[Procytec](https://github.com/ICESI-PI1-202502/20252-g5-pi1-equipo2)** | Gestión de impresoras para clientes corporativos: inventario de tóner, tickets de soporte, contratos y facturación por consumo | `Python` `Django` `PostgreSQL` `Docker` `Selenium + Behave` |
